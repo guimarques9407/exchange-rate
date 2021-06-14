@@ -1,11 +1,11 @@
 ## Taxa de câmbio
 
-Selecione os países para saber a taxa de câmbio de uma quantidade especifica
+Selecionar os países para saber o valor da moeda de uma quantidade especifica
 
 ## Project Specifications
 
-- Display UI with 2 select lists for countries and 2 inputs for amounts
-- Fetch exchange rates from API (https://api.exchangerate-api.com)
-- Display the values for both countries
-- Update values on amount change
-- Swap country rates
+- Mostrar a interface com 2 listas de seleção para países e 2 inputs para quantidades
+- Fazer uma requisição do tipo Fetch para obter a taxa de câmbio na API (https://api.exchangerate-api.com) 
+- Mostrar os valores para ambos os países
+- Atualizar os valores a medida que a quantidade muda
+- Inverter a moeda

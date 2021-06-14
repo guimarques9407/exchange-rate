@@ -1,6 +1,6 @@
-## Exchange Rate
+## Taxa de câmbio
 
-Select countries to get the exchange rate for a specific amount
+Selecione os países para saber a taxa de câmbio de uma quantidade especifica
 
 ## Project Specifications
 

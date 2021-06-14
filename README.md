@@ -1,6 +1,7 @@
 ## Taxa de câmbio
 
-Selecionar os países para saber o valor da moeda de uma quantidade especifica
+Selecionar os países para saber o valor da moeda de uma quantidade especifica. Projeto realizado no curso:
+20 Web Projects With Vanilla JavaScript na plataforma Udemy.
 
 ## Project Specifications
 
